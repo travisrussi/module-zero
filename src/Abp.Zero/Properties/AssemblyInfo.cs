@@ -16,7 +16,6 @@ using Abp.Zero;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-[assembly: InternalsVisibleTo("Abp.Zero.NHibernate")]
 [assembly: InternalsVisibleTo("Abp.Zero.EntityFramework")]
 [assembly: InternalsVisibleTo("Abp.Zero.Application")]
 [assembly: InternalsVisibleTo("Abp.Zero.Web.Api")]
